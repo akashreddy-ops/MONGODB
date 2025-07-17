@@ -29,7 +29,8 @@ Option 2: Install Locally
   2. Choose your OS and download the MongoDB Community Server.
   3. Install it and make sure to also install MongoDB Compass (GUI tool).
   4. Open Terminal and type:
-         mongod
+
+           mongod
 
 
 🖥️ 4. Using MongoDB in Your Project
@@ -54,6 +55,7 @@ Option 2: Install Locally
 ⚙️ 5. Connect MongoDB to a MERN Stack App
     Backend (Node.js + Express)
         1. Install dependencies:
-                      npm install mongoose express cors
+        
+                  npm install mongoose express cors
 
               
