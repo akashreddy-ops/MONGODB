@@ -78,4 +78,15 @@ Option 2: Install Locally
           });
 
 
+🌐 6. Websites Built with MongoDB
+You can also include example websites you’ve built like:
+
+- Elite Edge Fitness
+
+- Money Tracker
+
+- Food Delivery App
+
+- And any other MERN stack apps
+
               
