@@ -23,3 +23,11 @@ This repository helps beginners understand how to set up and use MongoDB with ex
    4. Add a user and set up a password.
    5. Click “Connect” > Choose “Connect your application”.
    6. Copy the connection string (something like: mongodb+srv://<username>:<password>@cluster.mongodb.net/?retryWrites=true&w=majority).
+
+Option 2: Install Locally
+  1. Visit https://www.mongodb.com/try/download/community
+  2. Choose your OS and download the MongoDB Community Server.
+  3. Install it and make sure to also install MongoDB Compass (GUI tool).
+  4. Open Terminal and type:
+         mongod
+
