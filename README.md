@@ -51,4 +51,9 @@ Option 2: Install Locally
                       db.users.deleteOne({ name: "Akash" });
 
 
+⚙️ 5. Connect MongoDB to a MERN Stack App
+    Backend (Node.js + Express)
+        1. Install dependencies:
+                      npm install mongoose express cors
+
               
