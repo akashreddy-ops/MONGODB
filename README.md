@@ -90,10 +90,10 @@ You can also include example websites you’ve built like:
 - And any other MERN stack apps
 
 📚 7. Resources
-  - MongoDB Official Docs(https://www.mongodb.com/docs/)
+  - MongoDB Official Docs (https://www.mongodb.com/docs/)
 
-  - Mongoose Docs
+  - Mongoose Docs (https://mongoosejs.com/docs/)
 
-  - MongoDB Atlas
+  - MongoDB Atlas (https://www.mongodb.com/products/platform/atlas-database).
 
               
