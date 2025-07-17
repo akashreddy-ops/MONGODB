@@ -31,3 +31,24 @@ Option 2: Install Locally
   4. Open Terminal and type:
          mongod
 
+
+🖥️ 4. Using MongoDB in Your Project
+    Basic Commands : - 
+
+              # Create a new database
+                      use myDatabase;
+                              
+              # Show all databases
+                      show dbs;
+                              
+              # Create collection
+                      db.users.insertOne({ name: "Akash", age: 22 });
+                              
+              # Find all documents
+                      db.users.find();
+                              
+              # Delete a document
+                      db.users.deleteOne({ name: "Akash" });
+
+
+              
